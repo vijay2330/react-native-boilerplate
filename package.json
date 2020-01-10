@@ -1,9 +1,11 @@
 {
-  "name": "react-native-boilerplate",
+  "name": "react-native-custom-boilerplate",
   "version": "1.0.0",
   "description": "Creating a boilerplate with own bundleIdentifier and install some most used packages",
   "main": "src/index.js",
-  "bin": "src/index.js",
+  "bin": {
+    "react-native-boilerplate": "src/index.js"
+  },
   "scripts": {
     "start": "node src/index.js"
   },
@@ -25,10 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vijay2330/react-native-boilerplate"
+    "url": "git+https://github.com/vijay2330/react-native-boilerplate.git"
   },
   "bugs": {
     "url": "https://github.com/vijay2330/react-native-boilerplate/issues"
   },
-  "homepage": "https://github.com/vijay2330/react-native-boilerplate/blob/master/README.md"
+  "homepage": "https://github.com/vijay2330/react-native-boilerplate/blob/master/README.md",
+  "devDependencies": {}
 }
