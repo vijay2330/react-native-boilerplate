@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venkatesh-rao/reactql.git"
+    "url": "git+https://github.com/vijay2330/react-native-boilerplate"
   },
   "bugs": {
-    "url": "https://github.com/venkatesh-rao/reactql/issues"
+    "url": "https://github.com/vijay2330/react-native-boilerplate/issues"
   },
-  "homepage": "https://github.com/venkatesh-rao/reactql#readme"
+  "homepage": "https://github.com/vijay2330/react-native-boilerplate/blob/master/README.md"
 }
