@@ -1,0 +1,32 @@
+{
+  "name": "react-native-boilerplate",
+  "version": "1.0.0",
+  "description": "Creating a boilerplate with own bundleIdentifier and install some most used packages",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "boilerplate",
+    "react-native",
+    "custom-boilerplate"
+  ],
+  "author": "Vijay R",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "ejs": "^3.0.1",
+    "inquirer": "^7.0.0",
+    "shelljs": "^0.8.3",
+    "yargs": "^15.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatesh-rao/reactql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/venkatesh-rao/reactql/issues"
+  },
+  "homepage": "https://github.com/venkatesh-rao/reactql#readme"
+}
