@@ -10,7 +10,9 @@
   "keywords": [
     "boilerplate",
     "react-native",
-    "custom-boilerplate"
+    "custom-boilerplate",
+    "bundle identifier",
+    "packages"
   ],
   "author": "Vijay R",
   "license": "MIT",
