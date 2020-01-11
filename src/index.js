@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**Import statements, these are the one which is used to setup the boilerplate*/
 const inquirer = require("inquirer");
 const fs = require("fs");
